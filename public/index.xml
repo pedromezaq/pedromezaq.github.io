@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pedro Meza Quintanilla</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Pedro Meza Quintanilla</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 18 Jan 2025 13:37:36 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Research</title>
+      <link>http://localhost:1313/research/</link>
+      <pubDate>Sat, 18 Jan 2025 13:37:36 -0500</pubDate>
+      <guid>http://localhost:1313/research/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Teaching</title>
+      <link>http://localhost:1313/teaching/</link>
+      <pubDate>Sat, 18 Jan 2025 11:58:13 -0500</pubDate>
+      <guid>http://localhost:1313/teaching/</guid>
+      <description>Instructor Public Finance II, Universidad Autónoma de Nuevo León. Summer 2018.&#xA;Economics of Sports, Michigan State University. Summer 2018.&#xA;Introduction to Econometrics. Oregon State University. Summer 2023&#xA;Teaching Assistant, Michigan State University. EC310 - Economics of Developing Countries, Spring 2020.&#xA;EC410 - Issues in the Economics of Developing Countries, Spring 2020 &amp;amp; Fall 2019.&#xA;EC436 - Public Revenues, Fall 2019.&#xA;PPL803 - Quantitative Methods III, Fall 2019.&#xA;EC251H - Microeconomics and Public Policy, Spring 2019.</description>
+    </item>
+    <item>
+      <title>CV</title>
+      <link>http://localhost:1313/cv/</link>
+      <pubDate>Sat, 18 Jan 2025 11:16:09 -0500</pubDate>
+      <guid>http://localhost:1313/cv/</guid>
+      <description>You can download my CV here.&#xA;También puedes descargar mi CV en español aquí.&#xA;Education B.A. in Economics, Universidad Autónoma de Nuevo León, 2016&#xA;M.A. in Economics, Michigan State University, 2018&#xA;Ph.D in Economics, Michigan State University, 2025 (expected)&#xA;Work experience Jun 2015 - Jul 2016: Instituto Federal de Telecomunicaciones, Mexico.&#xA;&amp;ndash; (Federal Institute of Telecommunications of Mexico)&#xA;&amp;ndash; Regulation of Wholesale Prices in Telecommunications.&#xA;Feb 2015 - Jun 2015: Secretaría de Economía, Mexico.</description>
+    </item>
+    <item>
+      <title>Datasets</title>
+      <link>http://localhost:1313/datasets/</link>
+      <pubDate>Fri, 17 Jan 2025 12:40:18 -0500</pubDate>
+      <guid>http://localhost:1313/datasets/</guid>
+      <description>I organized electoral results in municipalities in Mexico from 2008 to 2023. These datasets are already compiling the information to the municipal</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>INTRODUCTION. TESTING</description>
+    </item>
+  </channel>
+</rss>

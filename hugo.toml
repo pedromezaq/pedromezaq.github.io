@@ -1,0 +1,51 @@
+baseURL = 'https://pedromezaq.com/'
+languageCode = 'en-us'
+title = 'Pedro Meza Quintanilla'
+theme = 'archie'
+
+
+
+# Social Tags
+
+[[params.social]]
+name = "GitHub"
+icon = "github"
+url = "https://github.com/pedromezaq"
+
+[[params.social]]
+name = "Bluesky"
+icon = "twitter"
+url = "https://twitter.com/pedromezaq"
+
+[[params.social]]
+name = "GitLab"
+icon = "gitlab"
+url = "https://gitlab.com/athul/"
+
+
+[[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+
+[[menu.main]]
+    name = "CV"
+    url = "/cv/" 
+    weight = 2
+
+[[menu.main]]
+    name = "Teaching"
+    url = "/teaching/"
+    weight = 3
+
+[[menu.main]]
+    name = "Research"
+    url = "/research/"
+    weight = 4
+
+
+[[menu.main]]
+	name = "Datasets"
+	url = "/datasets/"
+	weight = 5
+	
