@@ -14,13 +14,8 @@ url = "https://github.com/pedromezaq"
 
 [[params.social]]
 name = "Bluesky"
-icon = "twitter"
-url = "https://twitter.com/pedromezaq"
-
-[[params.social]]
-name = "GitLab"
-icon = "gitlab"
-url = "https://gitlab.com/athul/"
+icon = "bluesky"
+url = "https://bsky.app/profile/pedromezaq.bsky.social"
 
 
 [[menu.main]]
